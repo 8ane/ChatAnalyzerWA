@@ -52,24 +52,13 @@ I wanted to bring a fresh perspective to analyzing chats! Creating Chat Analyzer
 
 | Shots | Shots | Shots |
 | ----- | ----- | ----- |
-| ![Screenshot 1](https://raw.githubusercontent.com/8ane/PDFReaderPro/main/Shots/Shots%20(1).png) | ![Screenshot 2](https://raw.githubusercontent.com/8ane/PDFReaderPro/main/Shots/Shots%20(2).png) | ![Screenshot 5](https://raw.githubusercontent.com/8ane/PDFReaderPro/main/Shots/Shots%20(5).png) |
-| ![Screenshot 6](https://raw.githubusercontent.com/8ane/PDFReaderPro/main/Shots/Shots%20(6).png) | ![Screenshot 3](https://raw.githubusercontent.com/8ane/PDFReaderPro/main/Shots/Shots%20(3).png) | ![Screenshot 4](https://raw.githubusercontent.com/8ane/PDFReaderPro/main/Shots/Shots%20(4).png) |
-| ![Screenshot 8](https://raw.githubusercontent.com/8ane/PDFReaderPro/main/Shots/Shots%20(8).png) | ![Screenshot 9](https://raw.githubusercontent.com/8ane/PDFReaderPro/main/Shots/Shots%20(9).png) | ![Screenshot 7](https://raw.githubusercontent.com/8ane/PDFReaderPro/main/Shots/Shots%20(7).png) |
+| ![Screenshot 1](https://raw.githubusercontent.com/8ane/ChatAnalyzerWA/main/Shots/1.jpg) | ![Screenshot 2](https://raw.githubusercontent.com/8ane/ChatAnalyzerWA/main/Shots/2.jpg) | ![Screenshot 5](https://raw.githubusercontent.com/8ane/ChatAnalyzerWA/main/Shots/3.jpg) |
+| ![Screenshot 6](https://raw.githubusercontent.com/8ane/ChatAnalyzerWA/main/Shots/4.jpg) | ![Screenshot 3](https://raw.githubusercontent.com/8ane/ChatAnalyzerWA/main/Shots/5.jpg) | ![Screenshot 4](https://raw.githubusercontent.com/8ane/ChatAnalyzerWA/main/Shots/6.jpg) |
+| ![Screenshot 8](https://raw.githubusercontent.com/8ane/ChatAnalyzerWA/main/Shots/9.jpg) | ![Screenshot 9](https://raw.githubusercontent.com/8ane/ChatAnalyzerWA/main/Shots/7.jpg) | ![Screenshot 9](https://raw.githubusercontent.com/8ane/ChatAnalyzerWA/main/Shots/8.jpg) |
 
 
 ## Download
 
-| Free | With Ads |
-| ----- | ----- |
-| [![Download](https://raw.githubusercontent.com/8ane/PDFReaderPro/main/Shots/1.png)](https://1drv.ms/u/s!AizKUEC72gLcbOtHYPsaa58U-g0?e=AYZDp1) | [![Download](https://raw.githubusercontent.com/8ane/PDFReaderPro/main/Shots/2.png)](https://1drv.ms/u/s!AizKUEC72gLcbaG8WRTmUNEX_6Y?e=7E5vjt) |
+ [![Download](https://raw.githubusercontent.com/8ane/PDFReaderPro/main/Shots/1.png)](https://github.com/8ane/ChatAnalyzerWA/raw/main/Shots/app-release.apk)
 
-
-## More
-
-| Shots | Shots |
-| ----- | ----- |
-| ![Screenshot 2](https://raw.githubusercontent.com/8ane/PDFReaderPro/main/Shots/2.jpg) | ![Screenshot 3](https://raw.githubusercontent.com/8ane/PDFReaderPro/main/Shots/3.jpg) | 
-| ![Screenshot 4](https://raw.githubusercontent.com/8ane/PDFReaderPro/main/Shots/4.jpg) | ![Screenshot 5](https://raw.githubusercontent.com/8ane/PDFReaderPro/main/Shots/5.jpg) | 
-| ![Screenshot 6](https://raw.githubusercontent.com/8ane/PDFReaderPro/main/Shots/6.jpg) | ![Screenshot 7](https://raw.githubusercontent.com/8ane/PDFReaderPro/main/Shots/7.jpg) | 
-
-![Screenshot 8](https://raw.githubusercontent.com/8ane/PDFReaderPro/main/Shots/8.jpg)
+![Screenshot 8](https://raw.githubusercontent.com/8ane/ChatAnalyzerWA/main/Shots/Cover.jpg)
